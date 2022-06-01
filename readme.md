@@ -1,4 +1,4 @@
 # proyecto git
-# Juan Jose Alarcon
+# Juan Jose Alarcon, 27 años, Lanus
 # Leonardo Adrian Luna
 # Karen Gonzalez 
